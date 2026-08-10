@@ -1,5 +1,7 @@
 package edu.unisabana.pizzafactory.model;
 
-interface AmasadorPizza {
-    void amasar();
+public interface AmasadorPizza {
+
+    public void amasar();
+
 }
